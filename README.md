@@ -1,0 +1,2 @@
+# figure-classification-opencv
+This repository uses a created class object called imageShape in order to create an image with height and width values given by the user. Then, it randomly generates and draw a centered figure between circle, equilateral triangle, rectangle or rotated square and shows it for 5 seconds. It saves the image and performs a classification of the figure with contours analysis. Finally, it prints if the classification was made right or wrong.
